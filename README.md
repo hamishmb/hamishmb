@@ -1,3 +1,5 @@
+Pronouns: he/him.
+
 Note that most of my work is on GitLab (https://gitlab.com/hamishmb). Here are my GitHub stats.
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
