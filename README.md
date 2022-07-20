@@ -1,6 +1,6 @@
 Pronouns: he/him.
 
-Note that most of my work is on GitLab (https://gitlab.com/hamishmb). Here are my GitHub stats.
+Note that most of my work is on GitLab (https://gitlab.com/hamishmb) - these repos are almost all just mirrors from GitLab. Here are my GitHub stats.
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=hamishmb&count_private=true&show_icons=true" alt="Hamish's GitHub stats" />
