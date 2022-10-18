@@ -1,4 +1,4 @@
-Pronouns: he/him.
+A passionate FOSS developer who enjoys working on niche projects such ad Darling and PureDarwin, as well as a few commercial projects I work on to make a living.
 
 Note that most of my work is on GitLab (https://gitlab.com/hamishmb), except for projects I contribute to that are on GitHub - these repos are almost all just mirrors from GitLab. Here are my GitHub stats.
 
